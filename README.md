@@ -36,7 +36,7 @@ identificador de la cadena: 1337
 
 Simbolo: ETH
 
-Luego importa una cuenta de esta lista:
+       Luego importa una cuenta de esta lista:
 Private Keys
 ==================
 (0) 0x1289c9f2c5b693ab754fba3f5c7d1ef54b9a86c81857e0e1ab79eff0b84e6383
