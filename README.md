@@ -1,6 +1,6 @@
 # LAWNET
 
-           ------------Gracias por seleccionar LawNet--------------
+           Gracias por seleccionar LawNet
 Por favor, siga las siguientes instrucciones para su uso correcto:
 
 --------------------------GUÍA PARA EL INSTALADOR--------------------------
