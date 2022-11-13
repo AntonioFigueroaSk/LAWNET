@@ -3,7 +3,7 @@
            Gracias por seleccionar LawNet
 Por favor, siga las siguientes instrucciones para su uso correcto:
 
---------------------------GUÍA PARA EL INSTALADOR--------------------------
+           GUÍA PARA EL INSTALADOR           
 
 Paso 1.- Descargar y/o ejecutar Ganache
 Paso 2.- Descargar y/o ejecutar Metamask
@@ -11,7 +11,7 @@ Paso 3.- Descargar el repositorio
 Paso 4- Ejecutar la aplicación node (INSTALANDO PREVIAMENTE LAS DEPENDENCIAS NECESARIAS) mediante npm run dev 
 #nota En caso de ser necesario setear/resetear la app mediante el comando "truffle migration" o el comando "truffle migration --reset"
 
----------------------------GUÍA PARA EL VOTANTE----------------------------
+           GUÍA PARA EL VOTANTE           
 
 Paso 1.- Cargar una cuenta en el wallet Metamask (generada desde Ganache)
 Paso 2.- Ingresar al siguiente enlace
@@ -27,9 +27,13 @@ Esto con el fin de facilitar la interaccion y que tomen en cuenta que este ya es
 Pagina web: 164.92.98.210:3000
 
 Metamask configuration:
+
 Nombre: "puede ser lo que sea"
+
 Direccion url: http://164.92.98.210:8545
+
 identificador de la cadena: 1337
+
 Simbolo: ETH
 
 Luego importa una cuenta de esta lista:
